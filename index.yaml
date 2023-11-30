@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  my-helm-chart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-11-30T17:25:20.287337769+09:00"
+    description: hanjump helm chart test(helm create myhelmchartName)
+    digest: 7f94f407aecf210665fe8984f74d92503e85dac544b61ba6f1957aed8768790a
+    name: my-helm-chart
+    type: application
+    urls:
+    - my-helm-chart-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-11-30T17:25:20.009134252+09:00"
