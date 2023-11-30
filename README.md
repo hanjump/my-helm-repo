@@ -9,3 +9,4 @@ helm repo update
 
 helm search repo my-helm-chart
 helm install github-myhelm-web github-myhelm-repo/my-helm-chart
+ 
